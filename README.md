@@ -2,7 +2,7 @@
 <div class="card">
   <h1 align="center">Lucas Bui</h1>
   
- <p align="center"> Hi all, I'm Lucas a second year software engineering student at RMIT.</p>
+ <p align="center"> Hi all, I'm Lucas a penultimate year software engineering student at RMIT.</p>
  <p align="center"><button>Languages I'm Currently Learning </button></p>
  <p align="center">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
